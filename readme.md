@@ -1,0 +1,6 @@
+- Run admin `node admin.js`
+- Run multiple containers `node consumer.js <GROUP_NAME>`
+- Create producer `node producer.js`
+- Try follwoing prompts
+  - sudipta south
+  - sudipta north
